@@ -1,0 +1,29 @@
+D:\Working Projects\gmcscoServices\gmcscoServices\bin\gmcscoServices.dll.config
+D:\Working Projects\gmcscoServices\gmcscoServices\bin\gmcscoServices.dll
+D:\Working Projects\gmcscoServices\gmcscoServices\bin\gmcscoServices.pdb
+D:\Working Projects\gmcscoServices\gmcscoServices\bin\EntityFramework.dll
+D:\Working Projects\gmcscoServices\gmcscoServices\bin\EntityFramework.SqlServer.dll
+D:\Working Projects\gmcscoServices\gmcscoServices\bin\EntityFramework.xml
+D:\Working Projects\gmcscoServices\gmcscoServices\bin\EntityFramework.SqlServer.xml
+D:\Working Projects\gmcscoServices\gmcscoServices\obj\Debug\gmcscoServices.dll
+D:\Working Projects\gmcscoServices\gmcscoServices\obj\Debug\gmcscoServices.pdb
+D:\Working Projects\gmcscoServices\gmcscoServices\obj\Debug\gmcscoServices.csprojResolveAssemblyReference.cache
+D:\Working Projects\gmcscoServices\gmcscoServices\obj\Debug\gmcscoServices.Migrations.Add_Subscribe.resources
+D:\Working Projects\gmcscoServices\gmcscoServices\obj\Debug\gmcscoServices.csproj.GenerateResource.Cache
+D:\Working Projects\gmcscoServices\gmcscoServices\obj\Debug\gmcscoServices.Migrations.Add_Subscribe1.resources
+D:\Working Projects\gmcscoServices\gmcscoServices\obj\Debug\gmcscoServices.Migrations.Add_Contacts.resources
+D:\backupFiles\MyWork\GMCSCO\gmcscoServices\gmcscoServices\bin\gmcscoServices.dll.config
+D:\backupFiles\MyWork\GMCSCO\gmcscoServices\gmcscoServices\bin\gmcscoServices.dll
+D:\backupFiles\MyWork\GMCSCO\gmcscoServices\gmcscoServices\bin\gmcscoServices.pdb
+D:\backupFiles\MyWork\GMCSCO\gmcscoServices\gmcscoServices\bin\EntityFramework.dll
+D:\backupFiles\MyWork\GMCSCO\gmcscoServices\gmcscoServices\bin\EntityFramework.SqlServer.dll
+D:\backupFiles\MyWork\GMCSCO\gmcscoServices\gmcscoServices\bin\EntityFramework.xml
+D:\backupFiles\MyWork\GMCSCO\gmcscoServices\gmcscoServices\bin\EntityFramework.SqlServer.xml
+D:\backupFiles\MyWork\GMCSCO\gmcscoServices\gmcscoServices\obj\Debug\gmcscoServices.csprojResolveAssemblyReference.cache
+D:\backupFiles\MyWork\GMCSCO\gmcscoServices\gmcscoServices\obj\Debug\gmcscoServices.Migrations.Add_Subscribe.resources
+D:\backupFiles\MyWork\GMCSCO\gmcscoServices\gmcscoServices\obj\Debug\gmcscoServices.Migrations.Add_Subscribe1.resources
+D:\backupFiles\MyWork\GMCSCO\gmcscoServices\gmcscoServices\obj\Debug\gmcscoServices.Migrations.Add_Contacts.resources
+D:\backupFiles\MyWork\GMCSCO\gmcscoServices\gmcscoServices\obj\Debug\gmcscoServices.csproj.GenerateResource.Cache
+D:\backupFiles\MyWork\GMCSCO\gmcscoServices\gmcscoServices\obj\Debug\gmcscoServices.dll
+D:\backupFiles\MyWork\GMCSCO\gmcscoServices\gmcscoServices\obj\Debug\gmcscoServices.pdb
+D:\backupFiles\MyWork\GMCSCO\gmcscoServices\gmcscoServices\obj\Debug\gmcscoServices.Migrations.AddIpAddress.resources
